@@ -9,6 +9,10 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 <img src="https://github.com/novaru/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
 <img src="https://github.com/novaru/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
 </a>
+<!--
+hidden languages: html,css,scss,visual basic .net,asp.net,hack,java,php,nushell,nu,makefile,assembly,dockerfile
+lang name ref: https://github.com/github-linguist/linguist/blob/1f65799270b46a0bd1d4a62ea5734a1117f45e61/lib/linguist/languages.yml
+-->
 
 Generate visualizations of GitHub user and repository statistics with GitHub
 Actions. Visualizations can include data for both private repositories, and for
