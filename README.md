@@ -10,7 +10,7 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 <img src="https://github.com/novaru/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
 </a>
 <!--
-hidden languages: html,css,scss,javascript,less,visual basic .net,asp.net,hack,java,nushell,nu,scheme,makefile,assembly,dockerfile
+hidden languages: html,css,scss,javascript,astro,less,visual basic .net,asp.net,hack,java,nushell,nu,scheme,makefile,assembly,dockerfile
 lang name ref: https://github.com/github-linguist/linguist/blob/1f65799270b46a0bd1d4a62ea5734a1117f45e61/lib/linguist/languages.yml
 -->
 
